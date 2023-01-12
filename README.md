@@ -1,4 +1,4 @@
-# <p align="center">
+<h1 align="center">
 SmartHerbsFlowerBox
 </p>
 This is an attempt to provide herbs in a flower box with water and light in an automated way.
