@@ -5,7 +5,7 @@
 
 ## Upcoming tasks
 - [x] Draw a sketch
-- [ ] Create a parts list
+- [x] Create a parts list
 - [ ] Start with an experimental setup
   - [ ] Soil Moisture Sensor
   - [ ] Grayscale sensor
