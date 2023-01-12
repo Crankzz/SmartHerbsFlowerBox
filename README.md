@@ -1,6 +1,6 @@
 <h1 align="center">
 SmartHerbsFlowerBox
-</p>
+</h1>
 This is an attempt to provide herbs in a flower box with water and light in an automated way.
 
 <img style="float: right;" src="https://user-images.githubusercontent.com/67168274/212015937-8ecb1e21-fb83-44d4-a89d-41328b2f5db4.png">
