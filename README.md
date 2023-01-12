@@ -3,7 +3,7 @@
 
 <img style="float: right;" src="https://user-images.githubusercontent.com/67168274/212015937-8ecb1e21-fb83-44d4-a89d-41328b2f5db4.png">
 
-### Upcoming tasks
+<h2> align="center">Upcoming tasks</h2>
 - [x] Draw a sketch
 - [ ] Create a parts list
 - [ ] Start with an experimental setup
